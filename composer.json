@@ -13,7 +13,7 @@
     "laravel-snappy",
     "barryvdh"
   ],
-  "license": "LGPL Version 4",
+   "license": "GPL-2.0",
   "homepage": "http://wkhtmltopdf.org/",
   "authors": [
     {
