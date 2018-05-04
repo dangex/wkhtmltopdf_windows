@@ -1,5 +1,5 @@
 {
-  "name": "fishmad/wkhtmltopdf-windows",
+  "name": "dangex/wkhtmltopdf-windows",
   "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary 64 bit systems.",
   "keywords": [
     "pdf",
@@ -18,12 +18,12 @@
   "authors": [
     {
       "name": "Lee Nielsen",
-      "email": "lee@fishmad.com.au",
-      "homepage": "http://fishmad.com.au"
+      "email": "lee@dangex.com.au",
+      "homepage": "http://dangex.com.au"
     }
   ],
   "support": {
-    "issues": "https://github.com/fishmad/wkhtmltopdf-windows/issues?state=open"
+    "issues": "https://github.com/dangex/wkhtmltopdf-windows/issues?state=open"
   },
   "minimum-stability": "stable",
   "bin": [
