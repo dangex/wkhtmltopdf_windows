@@ -1,0 +1,39 @@
+{
+  "name": "fishmad/wkhtmltopdf-windows",
+  "description": "Convert html to pdf using webkit (qtwebkit). Static linked windows binary 64 bit systems.",
+  "keywords": [
+    "pdf",
+    "thumbnail",
+    "snapshot",
+    "wkhtmltopdf",
+    "convert",
+    "binary",
+    "htmltopdf",
+    "htmltoimage",
+    "laravel-snappy",
+    "barryvdh"
+  ],
+  "license": "LGPL Version 4",
+  "homepage": "http://wkhtmltopdf.org/",
+  "authors": [
+    {
+      "name": "Lee Nielsen",
+      "email": "lee@fishmad.com.au",
+      "homepage": "http://fishmad.com.au"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/fishmad/wkhtmltopdf-windows/issues?state=open"
+  },
+  "minimum-stability": "stable",
+  "bin": [
+    "bin/64bit/wkhtmltopdf.exe",
+    "bin/64bit/wkhtmltoimage.exe"
+  ],
+  "require": {
+  },
+  "suggest": {
+  "barryvdh/laravel-snappy": "0.2.x",
+"wemersonjanuario/laravelpdf": "1.0.*"
+  }
+}
