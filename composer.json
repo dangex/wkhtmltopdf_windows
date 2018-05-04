@@ -25,7 +25,7 @@
   "support": {
     "issues": "https://github.com/fishmad/wkhtmltopdf-windows/issues?state=open"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "bin": [
     "bin/64bit/wkhtmltopdf.exe",
     "bin/64bit/wkhtmltoimage.exe"
