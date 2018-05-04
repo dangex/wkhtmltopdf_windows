@@ -18,12 +18,12 @@
   "authors": [
     {
       "name": "Lee Nielsen",
-      "email": "lee@dangex.com.au",
-      "homepage": "http://dangex.com.au"
+      "email": "lee@fishmad.com.au",
+      "homepage": "http://fishmad.com.au"
     }
   ],
   "support": {
-    "issues": "https://github.com/dangex/wkhtmltopdf-windows/issues?state=open"
+    "issues": "https://github.com/fishmad/wkhtmltopdf-windows/issues?state=open"
   },
   "minimum-stability": "stable",
   "bin": [
